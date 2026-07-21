@@ -6,7 +6,7 @@
   *A passionate backend developer from Viet Nam*
 
 </div>
-<a href="https://github.com/NguyenTienHieu-GitHub">
+<a href="https://github.com/hiuronpro">
   <img src="https://komarev.com/ghpvc/?username=NguyenTienHieu-GitHub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </a>
 
@@ -14,7 +14,7 @@
 
 ### `Connect with me:`
 
-<a href="mailto:tienhieu2kk3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:hiuronpro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://facebook.com/NguyenTienHieu.Profile"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://t.me/hiuron">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
